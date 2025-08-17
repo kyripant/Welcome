@@ -9,8 +9,7 @@ Hi, I’m **Kyriakos Pantazis** — a Cyber & Information Security Expert passio
   - Vulnerability Management
   - Incident Response
   - Security Operations
-  - Compliance with standards like ISO 27001, NIST, and GDPR :contentReference[oaicite:1]{index=1}
-- Located in Athens, Greece (if you'd like to add location)
+  - Compliance with standards like ISO 27001, NIST, and GDPR
 - Keen on sharing insights, learnings, and open-source contributions in cybersecurity.
 
 ---
